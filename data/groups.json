@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/marketing Growth & Strategy",
+    "platform": "Reddit",
+    "category": "Marketing Science",
+    "memberCount": "850,000+ members",
+    "description": "Consumer psychology, direct response advertising, funnel optimization, and conversion tracking architectures.",
+    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "tags": [
+      "marketing",
+      "psychology",
+      "funnels",
+      "reddit"
+    ],
+    "id": "affiliate-marketing-masters-hub-reddit-3",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "title": "r/affiliatemarketing Strategies & Case Studies",
     "platform": "Reddit",
     "category": "Affiliate Strategy",
@@ -15,7 +34,7 @@
     "id": "affiliate-marketing-masters-hub-reddit-2",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -929,24 +948,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/marketing Growth & Strategy",
-    "platform": "Reddit",
-    "category": "Marketing Science",
-    "memberCount": "850,000+ members",
-    "description": "Consumer psychology, direct response advertising, funnel optimization, and conversion tracking architectures.",
-    "joinUrl": "https://www.reddit.com/r/marketing/",
-    "tags": [
-      "marketing",
-      "psychology",
-      "funnels",
-      "reddit"
-    ],
-    "id": "affiliate-marketing-masters-hub-reddit-3",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "title": "r/digitalmarketing Acquisition Channels",
